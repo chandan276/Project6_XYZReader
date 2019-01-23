@@ -44,7 +44,7 @@
         android:layout_width="@dimen/max_width_size"
         android:layout_height="wrap_content"
         android:layout_below="@id/collapsing_toolbar"
-        android:layout_gravity="center_horizontal"
+        android:layout_gravity="center_horizontal|top"
         android:fitsSystemWindows="true"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
 </android.support.design.widget.CoordinatorLayout>

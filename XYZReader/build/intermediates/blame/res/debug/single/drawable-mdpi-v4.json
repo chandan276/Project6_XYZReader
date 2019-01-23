@@ -60,12 +60,12 @@
         "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
         "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_48dp.png",

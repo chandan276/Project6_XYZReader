@@ -4,12 +4,12 @@
         "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png",
-        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
-    },
-    {
         "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -52,16 +52,16 @@
         "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
-        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility.png",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/drawable-hdpi-v4/design_ic_visibility.png"
     },
     {
         "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility.png",
-        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/drawable-hdpi-v4/design_ic_visibility.png"
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",

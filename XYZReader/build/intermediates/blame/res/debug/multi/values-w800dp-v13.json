@@ -11,7 +11,14 @@
                     "endOffset": 100
                 },
                 "from": {
-                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values-w800dp/macro_layout.xml"
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 34,
+                        "endColumn": 49,
+                        "endOffset": 79
+                    }
                 }
             }
         ]
