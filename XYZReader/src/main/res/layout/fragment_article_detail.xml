@@ -118,8 +118,13 @@
         android:layout_marginEnd="@dimen/default_margin"
         android:contentDescription="@string/action_share"
         android:src="@drawable/ic_share"
+        android:background="@drawable/ripple"
+        app:borderWidth="0dp"
+        app:elevation="6dp"
+        app:fabSize="normal"
         app:layout_anchor="@id/toolbar_det"
         app:layout_anchorGravity="bottom|right|end"
-        tools:background="?android:attr/selectableItemBackgroundBorderless" />
+        tools:background="?android:attr/selectableItemBackgroundBorderless"
+        app:pressedTranslationZ="12dp"/>
 
 </android.support.design.widget.CoordinatorLayout>

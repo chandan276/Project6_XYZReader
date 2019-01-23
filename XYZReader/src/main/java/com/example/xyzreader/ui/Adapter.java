@@ -24,7 +24,7 @@ public class Adapter extends CursorRecyclerViewAdapter<Adapter.ViewHolder> {
         super(cursor);
         mContext = context;
     }
-    
+
     @Override
     public void onBindViewHolder(final ViewHolder holder, final Cursor cursor) {
         holder.titleView.setText(cursor.getString(ArticleLoader.Query.TITLE));

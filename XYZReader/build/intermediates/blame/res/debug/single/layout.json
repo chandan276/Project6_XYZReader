@@ -36,12 +36,12 @@
         "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/layout/abc_screen_simple.xml"
-    },
-    {
         "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
