@@ -11,14 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 69,
-                        "endOffset": 120
-                    }
+                    "file": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/values-land/values-land.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 125,
-                        "endColumn": 63,
-                        "endOffset": 184
-                    }
+                    "file": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/values-land/values-land.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 189,
-                        "endColumn": 70,
-                        "endOffset": 255
-                    }
+                    "file": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/values-land/values-land.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 260,
-                        "endColumn": 67,
-                        "endOffset": 323
-                    }
+                    "file": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/values-land/values-land.xml"
                 }
             },
             {
@@ -83,58 +55,91 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 328,
-                    "endColumn": 57,
-                    "endOffset": 381
+                    "endColumn": 49,
+                    "endOffset": 373
                 },
                 "from": {
-                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values-land/macro_layout.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 88,
-                        "endColumn": 57,
-                        "endOffset": 141
-                    }
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values-land/dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 386,
-                    "endColumn": 51,
-                    "endOffset": 433
+                    "startOffset": 378,
+                    "endColumn": 56,
+                    "endOffset": 430
                 },
                 "from": {
-                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values-land/macro_layout.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 51,
-                        "endOffset": 83
-                    }
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values-land/dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 438,
-                    "endLine": 11,
-                    "endColumn": 12,
-                    "endOffset": 615
+                    "startOffset": 435,
+                    "endColumn": 57,
+                    "endOffset": 488
                 },
                 "from": {
-                    "file": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/values-land/values-land.xml",
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values-land/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 48,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values-land/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 45,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values-land/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 588,
+                    "endColumn": 49,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values-land/macro_layout.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 1,
                         "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 5,
-                        "endColumn": 12,
-                        "endOffset": 232
+                        "startOffset": 16,
+                        "endColumn": 49,
+                        "endOffset": 61
                     }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/values-land/values-land.xml"
                 }
             }
         ]

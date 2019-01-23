@@ -9,7 +9,6 @@
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
-    <bool name="detail_is_card">false</bool>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
     <color name="abc_search_url_text_pressed">@android:color/black</color>
@@ -475,8 +474,8 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="app_bar_layout_size">360dp</dimen>
     <dimen name="app_bar_size">112dp</dimen>
+    <dimen name="app_bar_size_landscape">75dp</dimen>
     <dimen name="appbar_layou_size">260dp</dimen>
-    <dimen name="appbar_layout_no_elevation">0dp</dimen>
     <dimen name="article_detail_height">250dp</dimen>
     <dimen name="card_padding">8dp</dimen>
     <dimen name="card_view_margin">8dp</dimen>
@@ -523,18 +522,12 @@
     <dimen name="design_tab_scrollable_min_width">72dp</dimen>
     <dimen name="design_tab_text_size">14sp</dimen>
     <dimen name="design_tab_text_size_2line">12sp</dimen>
-    <dimen name="detail_body_bottom_margin">88dp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
-    <dimen name="detail_body_top_margin">16dp</dimen>
-    <dimen name="detail_card_max_width">10000dp</dimen>
-    <dimen name="detail_card_top_margin">@dimen/detail_photo_height</dimen>
-    <dimen name="detail_inner_horiz_margin">16dp</dimen>
     <dimen name="detail_metabar_title_bottom_padding">4dp</dimen>
-    <dimen name="detail_metabar_vert_padding">16dp</dimen>
-    <dimen name="detail_photo_height">304dp</dimen>
     <dimen name="detail_title_text_size">32sp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
+    <dimen name="expandedTitleMarginStart">48dp</dimen>
     <dimen name="expanded_title_margin_bottom_size">70dp</dimen>
     <dimen name="expanded_title_margin_end">64dp</dimen>
     <dimen name="expanded_title_margin_size">68dp</dimen>
@@ -556,8 +549,6 @@
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
-    <dimen name="list_side_margin">4dp</dimen>
-    <dimen name="list_toolbar_side_margin">0dp</dimen>
     <dimen name="max_width_size">500dp</dimen>
     <dimen name="nested_scroll_margin_top">-180dp</dimen>
     <dimen name="notification_action_icon_size">32dp</dimen>
@@ -610,6 +601,8 @@
     <integer name="list_column_count">2</integer>
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="subtitle_max_line">2</integer>
+    <integer name="title_max_line">4</integer>
     <string name="OK">OK</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
