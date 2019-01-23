@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

@@ -9,4 +9,13 @@
 
     <string name="up">Up</string>
 
+    <string name="home_title_logo">Title Logo</string>
+    <string name="book_image_desc">Book Image</string>
+    <string name="book_detail_image_desc">Book Details Image</string>
+
+    <string name="OK">OK</string>
+    <string name="refreshed_string">Refreshed</string>
+    <string name="shared_transation">shared_transition</string>
+    <string name="errer_message">Erreur Inconnue</string>
+
 </resources>

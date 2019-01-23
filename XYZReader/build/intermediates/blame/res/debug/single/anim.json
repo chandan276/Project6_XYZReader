@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/chandansingh/.android/build-cache/ea3018d216d28f1cac2d144b6bc9ec65ce1ed17d/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/chandansingh/.android/build-cache/de2212569a2a92891d71d3666362ca4c60226b71/output/res/anim/abc_popup_exit.xml"
+    }
+]
