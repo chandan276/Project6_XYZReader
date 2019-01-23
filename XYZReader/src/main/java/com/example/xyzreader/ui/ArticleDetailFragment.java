@@ -97,10 +97,6 @@ public class ArticleDetailFragment extends Fragment implements
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
 
-        // In support library r8, calling initLoader for a fragment in a FragmentPagerAdapter in
-        // the fragment's onCreate may cause the same LoaderManager to be dealt to multiple
-        // fragments because their mIndex is -1 (haven't been added to the activity yet). Thus,
-        // we do this in onActivityCreated.
         getLoaderManager().initLoader(0, null, this);
 
     }
@@ -121,7 +117,6 @@ public class ArticleDetailFragment extends Fragment implements
         mCollapsingToolbarLayout = (CollapsingToolbarLayout) mRootView.findViewById(R.id.photo_container);
         // set up the toolbar
         mToolbar = (Toolbar) mRootView.findViewById(R.id.detail_toolbar);
-
 
         getLoaderManager().initLoader(0, null, this);
 
@@ -236,14 +231,11 @@ public class ArticleDetailFragment extends Fragment implements
                             .setType("text/plain")
                             .setText("Some sample text")
                             .getIntent(), getString(R.string.action_share)));
-
                 }
             });
         } else {
             Snackbar.make(mCoordinatorLayout, R.string.errer_message, Snackbar.LENGTH_LONG).show();
         }
-
-
     }
 
     @Override
