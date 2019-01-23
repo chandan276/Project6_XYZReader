@@ -35,7 +35,6 @@ public class ArticleDetailActivity extends AppCompatActivity
     private MyPagerAdapter mPagerAdapter;
     private NestedScrollView mScrollView;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -65,7 +64,6 @@ public class ArticleDetailActivity extends AppCompatActivity
                 mSelectedItemId = mCursor.getLong(ArticleLoader.Query._ID);
             }
         });
-
 
         if (savedInstanceState == null) {
             if (getIntent() != null && getIntent().getData() != null) {

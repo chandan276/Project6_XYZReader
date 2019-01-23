@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/layout-land/fragment_article_detail.xml",
+        "source": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/layout-land/fragment_article_detail.xml"
+    },
+    {
+        "merged": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/merged/debug/layout-land/activity_article_list.xml",
+        "source": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/layout-land/activity_article_list.xml"
+    }
+]
