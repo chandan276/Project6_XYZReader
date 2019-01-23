@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 23 10:36:38 IST 2019
+#Wed Jan 23 12:02:46 IST 2019
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/res/resources-debug.ap_/res/color-v23/abc_tint_btn_checkable.xml

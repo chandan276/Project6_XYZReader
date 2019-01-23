@@ -779,14 +779,7 @@
                     "endOffset": 4406
                 },
                 "from": {
-                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1041,
-                        "endColumn": 50,
-                        "endOffset": 1087
-                    }
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1098,7 +1091,14 @@
                     "endOffset": 6151
                 },
                 "from": {
-                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values/colors.xml"
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 47,
+                        "endOffset": 798
+                    }
                 }
             },
             {
@@ -1110,7 +1110,14 @@
                     "endOffset": 6204
                 },
                 "from": {
-                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values/colors.xml"
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 52,
+                        "endOffset": 851
+                    }
                 }
             },
             {
@@ -4086,14 +4093,7 @@
                     "endOffset": 53632
                 },
                 "from": {
-                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 433,
-                        "endColumn": 69,
-                        "endOffset": 498
-                    }
+                    "file": "/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/src/main/res/values/strings.xml"
                 }
             },
             {
