@@ -1,4 +1,4 @@
-#Wed Jan 23 15:59:05 IST 2019
+#Wed Jan 23 16:15:17 IST 2019
 base.0=/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/chandansingh/Projects/AndroidStudioProjects/Repository/Project6_XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

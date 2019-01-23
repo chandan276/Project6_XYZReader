@@ -34,7 +34,8 @@
                 android:layout_height="match_parent"
                 android:fitsSystemWindows="true"
                 android:scaleType="centerCrop"
-                android:contentDescription="@string/book_detail_image_desc"/>
+                android:contentDescription="@string/book_detail_image_desc"
+                android:transitionName="@string/shared_transation"/>
 
             <android.support.v7.widget.Toolbar
                 android:id="@+id/detail_toolbar"
